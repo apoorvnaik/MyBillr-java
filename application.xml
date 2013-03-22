@@ -7,11 +7,5 @@
   <module>
     <ejb>mybillr.jar</ejb>
   </module>
-  <module>
-    <web>
-      <web-uri>mybillr.war</web-uri>
-      <context-root>mybillr</context-root>
-    </web>
-  </module>
 </application>
 
